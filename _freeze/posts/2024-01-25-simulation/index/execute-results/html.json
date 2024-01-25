@@ -1,8 +1,8 @@
 {
-  "hash": "caa7f0d9c9c0b3f18f9dec96821a0a8d",
+  "hash": "c465289e23f1ad532fb9e1f05ddccac6",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Some random simulation\"\nauthor: \"Alexander\"\ndate: \"Thu Jan 25 2024\"\n---\n\n::: {.cell}\n\n```{.r .cell-code}\ngeno <- matrix(NA, nrow=100, ncol=100, byrow=T)\nprint(dim(geno))\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 100 100\n```\n\n\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(1:20)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Some random simulation\"\nauthor: \"Alexander\"\ndate: \"Thu Jan 25 2024\"\n---\n\n::: {.cell}\n\n```{.r .cell-code}\ngeno <- matrix(NA, nrow=100, ncol=100, byrow=T)\nprint(dim(geno))\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 100 100\n```\n\n\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(1:20)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(20:1)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-3-1.png){width=672}\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

@@ -3,14 +3,14 @@ project:
 
 website:
   title: "Alexander"
-  site-url: "https:://awchen55.github.io"
+  site-url: "https://awchen55.github.io"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: posts
-        text: blog
+      - href: posts/index.qmd
+        text: Blog
 
 format:
   html:
@@ -20,4 +20,3 @@ format:
 
 execute:
   freeze: auto
-

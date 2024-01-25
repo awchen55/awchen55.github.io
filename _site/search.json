@@ -7,6 +7,13 @@
     "text": "This is my website"
   },
   {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Alexander’s blog post",
+    "section": "",
+    "text": "Some random simulation\n\n\n\n\n\n\n\n\n\n\n\nJan 25, 2024\n\n\nAlexander\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -18,6 +25,6 @@
     "href": "posts/2024-01-25-simulation/index.html",
     "title": "Some random simulation",
     "section": "",
-    "text": "geno &lt;- matrix(NA, nrow=100, ncol=100, byrow=T)\nprint(dim(geno))\n\n[1] 100 100\n\n\n\nplot(1:20)"
+    "text": "geno &lt;- matrix(NA, nrow=100, ncol=100, byrow=T)\nprint(dim(geno))\n\n[1] 100 100\n\n\n\nplot(1:20)\n\n\n\n\n\n\n\n\n\nplot(20:1)"
   }
 ]

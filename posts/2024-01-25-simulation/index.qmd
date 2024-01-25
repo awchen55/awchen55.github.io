@@ -13,4 +13,9 @@ print(dim(geno))
 plot(1:20)
 ```
 
+```{r}
+plot(20:1)
+```
+
+
 

@@ -1,0 +1,7 @@
+---
+title: "Alexander's blog post"
+listing:
+  contents: ./
+  categories: true
+page-layout: full
+---
