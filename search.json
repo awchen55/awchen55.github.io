@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "posts/2024-01-25-simulation/index.html",
+    "href": "posts/2024-01-25-simulation/index.html",
+    "title": "Some random simulation",
+    "section": "",
+    "text": "geno &lt;- matrix(NA, nrow=100, ncol=100, byrow=T)\nprint(dim(geno))\n\n[1] 100 100\n\n\n\nplot(1:20)"
   }
 ]
