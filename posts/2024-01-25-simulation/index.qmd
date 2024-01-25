@@ -1,0 +1,16 @@
+---
+title: "Some random simulation"
+author: "Alexander"
+date: "Thu Jan 25 2024"
+---
+
+```{r}
+geno <- matrix(NA, nrow=100, ncol=100, byrow=T)
+print(dim(geno))
+```
+
+```{r}
+plot(1:20)
+```
+
+
